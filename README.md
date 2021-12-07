@@ -11,3 +11,6 @@ Awk is well suited to working on text-files that can be handled line-wise. It is
 
 Problem input looks somewhat like a programming language (like Logo, but with a submarine instead of a turtle). Maybe Logo would have been fitting, but I choose to build an interpreter for the problem in Lex. Normally you use Lex in conjunction with yacc, but I want to leave yacc as an option for another day, so I have to do some violence to lex to make it work.
 
+## Day 3: Octave
+
+Problem input looked like a matrix, so I thought, use Octave, it is well suited to matrices. Oh my! The hard part was figuring out how to read in the data. Working with the matrices however is quite easy.
