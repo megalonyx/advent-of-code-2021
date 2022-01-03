@@ -14,3 +14,7 @@ Problem input looks somewhat like a programming language (like Logo, but with a 
 ## Day 3: Octave
 
 Problem input looked like a matrix, so I thought, use Octave, it is well suited to matrices. Oh my! The hard part was figuring out how to read in the data. Working with the matrices however is quite easy. However, the second part did not feel as natural a fit to Octave as the first.
+
+## Day 24: C
+
+I solved all problems in Python first, to get a feel for the problem, and then later in other languages. However, I did day 24 directly in C, because I opted for a brute force approach and suspected that Python wasn't fast enough for that. So this is the result. C was well suited for this problem.
