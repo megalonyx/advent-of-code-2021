@@ -431,8 +431,9 @@ void smallest() {
 
 int main(int argc, char *argv[])
 {
+    printf("Largest number:\n");
     largest();
-    //smallest();
-    //printf("%ld\n", calc());
+    printf("\nSmallest number:\n");
+    smallest();
     return 0;
 }
